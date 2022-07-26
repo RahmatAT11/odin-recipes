@@ -14,3 +14,9 @@ h1 {
 .menu {
     background-color: rgb(250, 250, 210);
 }
+
+li a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
