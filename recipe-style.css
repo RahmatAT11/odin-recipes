@@ -2,9 +2,14 @@
     background-color: orangered;
 }
 
-h1 {
+h1, h2 {
     font-size: 32px;
     font-weight: bolder;
     background-color: orange;
     color: beige;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
 }
