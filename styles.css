@@ -5,3 +5,17 @@
     background-color: orange;
     color: beige;
 }
+
+.menu {
+    background-color: orangered;
+}
+
+.menu.item {
+    list-style-type: none;
+}
+
+.menu.item a {
+    color: beige;
+    font-weight: 500;
+    font-size: 18px;
+}
