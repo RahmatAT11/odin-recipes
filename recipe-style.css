@@ -1,5 +1,6 @@
 * {
     background-color: orangered;
+    font-family: sans-serif;
 }
 
 h1, h2 {
@@ -12,4 +13,13 @@ h1, h2 {
 h2 {
     font-size: 24px;
     font-weight: bold;
+}
+
+ul, ol, li, p {
+    background-color: orange;
+}
+
+ul li, ol li, p {
+    font-size: 18px;
+    color: white;
 }
