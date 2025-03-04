@@ -16,7 +16,7 @@ h2 {
     text-align: left;
 }
 
-ul, ol, p {
+ul, ol, p, li a {
     background-color: goldenrod;
 }
 
